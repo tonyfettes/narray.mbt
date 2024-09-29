@@ -1,3 +1,3 @@
 # tonyfettes/narray
 
-Unbox array for tuple of the same type.
+Unbox array of homogeneous tuples.
